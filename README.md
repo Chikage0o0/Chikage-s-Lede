@@ -11,7 +11,7 @@
 - 下载最新[Release](https://github.com/Chikage0o0/YouHua-WR1200JS/releases/)中的**squashfs-sysupgrade.bin**文件。
 - 刷入Breed后断电，按住Wifi按钮插电，访问[192.168.1.1](http://192.168.1.1)进入Breed。
 - 恢复出厂后刷入之前下载的**bin**文件。
-
+- 开机后，访问[192.168.123.1](http://192.168.123.1),用户名 **root** 密码 **password**。
 ## ScreenShots
 
 ![login](https://raw.githubusercontent.com/Chikage0o0/YouHua-WR1200JS/main/screenshots/login.png)
