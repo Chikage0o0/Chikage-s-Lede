@@ -14,10 +14,11 @@
 sed -i 's/192.168.1.1/192.168.123.1/g' package/base-files/files/bin/config_generate
 
 sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' package/base-files/files/etc/sysctl.conf
-
-git clone  -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
-git clone  https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
+.
 rm -rf package/lean/luci-theme-argon
+git clone  -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
+git clone  https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
+
 
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
