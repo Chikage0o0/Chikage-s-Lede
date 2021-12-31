@@ -19,7 +19,5 @@ rm -rf package/lean/luci-theme-argon
 git clone  -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
 git clone  https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 
-
-git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
