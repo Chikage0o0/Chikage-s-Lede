@@ -1,6 +1,6 @@
 # YouHua WR1200JS with Lean's Openwrt
 
-## 该项目归档，请移至新项目：https://github.com/Chikage0o0/openwrt-packages
+## 该项目归档，请移至新项目：https://github.com/Chikage0o0/Openwrt-AIO
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/Chikage0o0/YouHua-WR1200JS.svg?style=flat-square&label=Stars&logo=github)
